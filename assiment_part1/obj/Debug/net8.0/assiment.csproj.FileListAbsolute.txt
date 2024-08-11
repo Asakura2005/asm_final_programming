@@ -1,0 +1,14 @@
+E:\c#\assiment\assiment\bin\Debug\net8.0\assiment.exe
+E:\c#\assiment\assiment\bin\Debug\net8.0\assiment.deps.json
+E:\c#\assiment\assiment\bin\Debug\net8.0\assiment.runtimeconfig.json
+E:\c#\assiment\assiment\bin\Debug\net8.0\assiment.dll
+E:\c#\assiment\assiment\bin\Debug\net8.0\assiment.pdb
+E:\c#\assiment\assiment\obj\Debug\net8.0\assiment.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\assiment\assiment\obj\Debug\net8.0\assiment.AssemblyInfoInputs.cache
+E:\c#\assiment\assiment\obj\Debug\net8.0\assiment.AssemblyInfo.cs
+E:\c#\assiment\assiment\obj\Debug\net8.0\assiment.csproj.CoreCompileInputs.cache
+E:\c#\assiment\assiment\obj\Debug\net8.0\assiment.dll
+E:\c#\assiment\assiment\obj\Debug\net8.0\refint\assiment.dll
+E:\c#\assiment\assiment\obj\Debug\net8.0\assiment.pdb
+E:\c#\assiment\assiment\obj\Debug\net8.0\assiment.genruntimeconfig.cache
+E:\c#\assiment\assiment\obj\Debug\net8.0\ref\assiment.dll

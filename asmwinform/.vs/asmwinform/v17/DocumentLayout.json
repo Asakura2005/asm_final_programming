@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|c:\\users\\administrator\\downloads\\asm\\asmwinform\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|c:\\users\\administrator\\downloads\\asm\\asmwinform\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|c:\\users\\administrator\\downloads\\asm\\asmwinform\\printbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|solutionrelative:printbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|c:\\users\\administrator\\downloads\\asm\\asmwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\printbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|solutionrelative:printbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|c:\\users\\administrator\\downloads\\asm\\asmwinform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|c:\\users\\administrator\\downloads\\asm\\asmwinform\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|c:\\users\\administrator\\downloads\\asm\\asmwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8964084-34E8-4FF8-8D80-659D3F26410D}|asmwinform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:28:24.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:19:46.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\login.Designer.cs",
+              "RelativeDocumentMoniker": "login.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\login.Designer.cs",
+              "RelativeToolTip": "login.Designer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAHgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:50:20.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\login.cs",
+              "RelativeToolTip": "login.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:13:22.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\login.cs [Design]",
+              "RelativeToolTip": "login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:24:07.046Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrintBill.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\PrintBill.cs",
+              "RelativeDocumentMoniker": "PrintBill.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\PrintBill.cs",
+              "RelativeToolTip": "PrintBill.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:18:18.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrintBill.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\PrintBill.cs",
+              "RelativeDocumentMoniker": "PrintBill.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\PrintBill.cs [Design]",
+              "RelativeToolTip": "PrintBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:18:06.679Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:45:13.553Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\asm\\asmwinform\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAEgBAAAAAAAAAAAAADABAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T06:29:17.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
